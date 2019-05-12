@@ -1,3 +1,5 @@
-# About My Library
+# About WebDev
 
-My Library consist of information on mostly infosec, but otherthings as well. You may access it. I don't mind. :)
+This is a personally made webdev library. Mostly with helpful tools, ideas, research, and anything webdev related.
+
+<a href="seeker" target="_blank">test</a>
